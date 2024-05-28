@@ -1,0 +1,6 @@
+{
+    "gpu_id_list": [2],
+    "max_task_per_gpu": 2,
+    "min_free_gpu_memory_gb": 11,
+    "max_cpu_memory_usage_percentage": 80
+}
